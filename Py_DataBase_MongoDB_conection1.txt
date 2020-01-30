@@ -1,0 +1,11 @@
+CONEXÃO
+connx = MongoClient('localhost', 27017)
+pymongo.mongo_client.MongoClient
+
+	BANCO DE DADOS
+	dbx = connx.cadastrodbx
+	pymongo.database.Database
+
+		TABELA(COLLECTION)
+		colle = dbx.cadastrodbx
+		pymongo.collection.Collection

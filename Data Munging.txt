@@ -1,0 +1,5 @@
+A Data wrangling,(disputa de dados) , 
+às vezes chamada de mesclagem de dados(data munging) , 
+é o processo de transformar e mapear dados de um formulário de dados " bruto " para outro formato com 
+a intenção de torná-lo mais apropriado e valioso para uma variedade de finalidades a jusante, como análises. 
+Um organizador de dados é uma pessoa que executa essas operações de transformação.
